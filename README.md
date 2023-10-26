@@ -6,3 +6,7 @@ You can adjust the typing speed by changing the second argument of setTimeout (c
 
 Make sure to link the JavaScript file (script.js) in your HTML file to enable the typing effect. 
 When you open the HTML file in a web browser, the message will be displayed as if it's being typed on the webpage.
+
+
+
+
