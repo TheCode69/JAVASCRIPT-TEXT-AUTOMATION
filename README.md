@@ -1,4 +1,4 @@
-#JAVASCRIPT-TEXT-AUTOMATION             
+#JAVASCRIPT-TEXT-AUTOMATION               
 In this code, the JavaScript function  displayMessage is responsible for typing out the message character by character.
 
 The setTimeout function is used to control the typing speed. 
